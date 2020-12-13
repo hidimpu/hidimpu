@@ -34,6 +34,7 @@
 <br />
 <br />
 ### Languages and Tools:
+<br />
 
 <img align="left" alt="C++" width="27px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 
