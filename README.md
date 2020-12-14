@@ -80,4 +80,15 @@
 
 <img alt="Parth Shuklas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hidimpu&show_icons=true&count_private=true" />
 
+<br>
+ <br>
+  
+ <p align="center">
+  <b>GitHub Visitors</b>
+  <br>
+  <br>
+  <img alt="Page counter" src="https://profile-counter.glitch.me/hidimpu/count.svg">
+</p>
+
+
 
