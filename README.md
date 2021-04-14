@@ -12,7 +12,7 @@
 - 🔭  I just created this simple to use music downloader: [Music-Dl](https://github.com/hidimpu/music-dl)!
 - 🌱  Currently polishing my skills on Node JS and Django 
 - 👯 Open to collaborate and learn about new technologies.
-- 🥅 2020 Goals: Make more mini utility projects and learn DSA
+- 🥅 2021 Goals: Make more utility projects and learn DSA
 - ⚡ Fun fact: I also used to make vector arts and thumbnails for C4ETech Youtube Channel in Teenage :)
 
 ---
