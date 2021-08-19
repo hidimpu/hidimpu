@@ -41,26 +41,22 @@
 
 
 
-<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <img align="left" alt="Django" width="28px" src="https://img.icons8.com/windows/32/000000/django.png" />
 
+
+<img align="left" alt="React" width="28px" src="https://img.icons8.com/wired/48/000000/react.png" />
 
 <img align="left" alt="Javascript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="Git" width="28px" src="https://img.icons8.com/color/48/000000/git.png" />
 
-<img align="left" alt="C++" width="27px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 
-<img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
 
 
-<img align="left" alt="MongoDB" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 
 <img align="left" alt="NodeJS" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 
@@ -69,7 +65,6 @@
 <img align="left" alt="Express" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
 
 
-<img align="left" alt="Bootstrap" width="28px" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 
 <br />
 <br />
