@@ -17,9 +17,7 @@
 
 ---
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31rosc22kmon2h42ofuvdl63bffq?si=NZ37Rx9uQeu5pMxPQeIfow)
+<!-- ### Spotify Playing 🎧 -->
 
 ### Connect with me:
 
@@ -37,10 +35,9 @@
 
 ### Languages and Tools:
 
-<br />
 
 
-
+<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> -->
 
 <img align="left" alt="Django" width="28px" src="https://img.icons8.com/windows/32/000000/django.png" />
 
