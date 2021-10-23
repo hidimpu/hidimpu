@@ -9,8 +9,8 @@
 
 ### I am a Web Developer, Music Producer, Content Writer, and student!
 
-- 🔭  I just created this simple to use music downloader: [Music-Dl](https://github.com/hidimpu/music-dl)!
-- 🌱  Currently polishing my skills on Node JS and Django 
+- 🔭  I recently created this Open Source music Streaming platform (Beta): [LogiMusic](https://github.com/hidimpu/logimusic-client)!
+- 🌱  Currently polishing my skills on Data Structures and Algorithms for Placements 
 - 👯 Open to collaborate and learn about new technologies.
 - 🥅 2021 Goals: Make more utility projects and learn DSA
 - ⚡ Fun fact: I also used to make vector arts and thumbnails for C4ETech Youtube Channel in Teenage :)
